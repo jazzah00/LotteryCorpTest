@@ -1,0 +1,7 @@
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\LotteryCorpTest.exe
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\LotteryCorpTest.dll
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\LotteryCorpTest.deps.json
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\LotteryCorpTest.runtimeconfig.json
+D:\LotteryCorpTest\LotteryCorpTest\obj\Release\netcoreapp3.1\PubTmp\Out\LotteryCorpTest.pdb
